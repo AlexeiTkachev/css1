@@ -1,0 +1,32 @@
+a[href="#menu"] {
+    color: green;
+}
+
+a[href="#articles"] {
+    color: brown;
+}
+
+a[href="#articles-last"] {
+    color:red;
+}
+
+
+h3 {
+color: #000000;
+}
+
+h3>span {
+    color: red;
+}
+
+span {
+    color: blue;
+}
+
+span+span {
+    color: gray;
+}
+
+p+p {
+    color: green;
+}
